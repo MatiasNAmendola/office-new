@@ -1,0 +1,3 @@
+name = Change Payment Form
+description = Change some fields on payment_node_form.
+core = 7.x

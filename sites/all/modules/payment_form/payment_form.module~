@@ -1,0 +1,13 @@
+<?php
+/**
+ * @file
+ * Change some fields on payment_node_form.
+ */
+
+
+/**
+ * Implements hook_form_payment_node_form_alter()
+ */
+function mymodule_form_node_form_alter(&$form, &$form_state, $form_id) {
+  ...
+}
