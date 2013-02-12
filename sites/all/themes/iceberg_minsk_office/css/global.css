@@ -4,3 +4,27 @@
 div.hide_this #edit-field-dogovor-und.form-wrapper.fieldset-wrapper.tabledrag-toggle-weight-wrapper {
   visibility: hidden;
 }
+
+#section-content {
+  min-height: 500px;
+}
+
+#page {
+  background-image: url(img/milk.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  min-height: 900px;
+}
+
+.region-sidebar-first-inner, .region-content-inner {
+  background: url("img/backgr_white_60.png") repeat scroll 0 0 transparent;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 1px;
+}
+
+.node-title a:link, .node-title a:visited {
+	color: black;
+	font-size: 23px;
+}
