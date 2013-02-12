@@ -1,10 +1,10 @@
 # Russian translation of Field Permissions (7.x-1.0-beta2)
-# Copyright (c) 2012 by the Russian translation team
+# Copyright (c) 2013 by the Russian translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Field Permissions (7.x-1.0-beta2)\n"
-"POT-Creation-Date: 2012-01-25 17:02+0000\n"
+"POT-Creation-Date: 2013-02-10 09:57+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -42,3 +42,13 @@ msgid "View field"
 msgstr "Показать поле"
 msgid "Administer field permissions"
 msgstr "Управление правами доступа к полям"
+msgid "Create own value for field %field"
+msgstr "Создать свое значение поля %field"
+msgid "Edit own value for field %field"
+msgstr "Изменять свои значения для поля %field"
+msgid "Edit anyone's value for field %field"
+msgstr "Изменять любые значения для поля %field"
+msgid "Field visibility and permissions"
+msgstr "Видимость поля и права доступа к нему"
+msgid "Custom permissions"
+msgstr "Пользовательские права доступа"
