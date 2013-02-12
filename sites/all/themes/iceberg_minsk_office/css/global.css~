@@ -17,14 +17,42 @@ div.hide_this #edit-field-dogovor-und.form-wrapper.fieldset-wrapper.tabledrag-to
   min-height: 900px;
 }
 
-#region-sidebar-first, #region-content {
-  background: url("img/backgr_white_60.png") repeat scroll 0 0 transparent;
-  padding: 20px;
+.region-sidebar-first-inner, .region-content-inner {
+  background: url("img/backgr_white_30.png") repeat scroll 0 0 transparent;
+  padding: 10px;
   border-radius: 8px;
-  margin: 1px;
+  margin-top: 8px;
 }
 
 .node-title a:link, .node-title a:visited {
-	color: black;
-	font-size: 23px;
+  color: black;
+  font-size: 23px;
+}
+
+.node-teaser, .block-inner .menu li {
+  background: url("img/backgr_white_60.png") repeat scroll 0 0 transparent;
+  border-radius: 8px;
+  margin: 8px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.node-teaser .submitted {
+	visibility: hidden;
+	height: 0;
+}
+
+#main-menu li {
+	background: url("img/backgr_white_60.png") repeat scroll 0 0 transparent;
+	padding: 12px;
+	font-size: 17px;
+	border-radius: 20px 20px 0 0;
+}
+
+#main-menu li:hover {
+	background: url("img/backgr_1_60.png") repeat scroll 0 0 transparent;
+}
+
+#main-menu li.active {
+	background: url("img/backgr_90.png") repeat scroll 0 0 transparent;
 }
